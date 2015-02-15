@@ -1,5 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: 最初のページ
 ---
 エンジニアがNLPを使うために、NLPをエンジニアの生活、仕事に則した切片でお伝えしていきます。
